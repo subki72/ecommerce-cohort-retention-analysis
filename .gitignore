@@ -1,0 +1,10 @@
+# Dataset
+*.csv
+*.xlsx
+
+# Python Junk
+__pycache__/
+*.pyc
+
+# Jupyter Checkpoints
+.ipynb_checkpoints/
